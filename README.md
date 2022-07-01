@@ -1,6 +1,5 @@
 # ubiart-loc8-converter
-UbiArt localisation file converter that can be used for modding Just Dance, Rayman Legends, and other UbiArt games.
-This Python script lets you decompress, compress, and patch loc8 files easily.
+UbiArt localisation file converter that lets you decompress, compress, and patch loc8 files easily.
 
 ## Why?
 `.loc8` files are used for localisation in UbiArt Framework games. This script lets you easily extract or modify those files. It has been used personally by me for many years to create mods for Just Dance.
